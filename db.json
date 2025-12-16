@@ -26,6 +26,16 @@
       "endereco": "rua x numero y",
       "email": "email@email.com",
       "tel": "119684984"
+    },
+    {
+      "id": "e4cb",
+      "nome": "ad",
+      "cnpj": "0001",
+      "datacadastro": "2025-12-16",
+      "endereco": "av dd",
+      "email": "ad@gmail.com",
+      "tel": "(11) 99821-8271"
     }
-  ]
+  ],
+  "editoras": []
 }
