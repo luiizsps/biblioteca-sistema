@@ -27,5 +27,22 @@
       "email": "email@email.com",
       "tel": "119684984"
     }
+  ],
+  "autores": [
+    {
+      "id": "1",
+      "nomeAutor": "Machado de Assis",
+      "biografia": "Escritor brasileiro, considerado um dos maiores nomes da literatura nacional"
+    },
+    {
+      "id": "ac6b",
+      "nomeAutor": "Zé do picadinho",
+      "biografia": "um peixe com olhos vermelhos, corpo preto e que tem uma espátula enferrujada na mão esquerda, substituindo a mão que ele cortou acidentalmente enquanto trabalhava, e cujo fantasma retorna nas terças-feiras à noite para se vingar"
+    },
+    {
+      "id": "97fb",
+      "nomeAutor": "Alexsandro da Mangueira",
+      "biografia": "o melhor de todos"
+    }
   ]
 }
